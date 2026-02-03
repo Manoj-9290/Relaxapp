@@ -4,5 +4,5 @@ A relaxing breathing app with a visual director to tell you when to breathe in, 
 Project Specifications
 Create circle and gradient circle with CSS,
 Create and animate pointer (Small circle),
-Create grow and shrink animations,
+Create grow and shrink animations, and
 Add JavaScript to create the breath animation effect.
